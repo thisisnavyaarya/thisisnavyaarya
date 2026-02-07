@@ -1,16 +1,16 @@
-## Hi there 👋
+# Navya's Profile
 
-<!--
-**thisisnavyaarya/thisisnavyaarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Navya, a .NET developer with over 2 years of experience in building dynamic and responsive web applications. I'm passionate about creating efficient solutions that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: C#, SQL
+- **Frameworks**: .NET MVC
+- **Front-end Technologies**: jQuery
+
+## Experience
+I have worked on several projects that focus on web development where I utilized my skills in .NET MVC and SQL to create high-quality applications. My experience with jQuery has also helped in building interactive user interfaces.
+
+## Contact
+Feel free to reach out to me for collaboration or just to connect!
